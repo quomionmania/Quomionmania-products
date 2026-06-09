@@ -1,4 +1,6 @@
+assets/banner.png
 # Quomion X
+
 The Future Starts Here.
 
 Quomion X is a next-generation operating system built from the ground up to deliver a beautiful, intelligent, and powerful computing experience.
