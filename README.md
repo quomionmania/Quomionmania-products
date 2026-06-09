@@ -12,3 +12,5 @@ It is its own ecosystem.
 Its own vision.
 
 Its own future.
+<div align="center">
+  <img src="ChatGPT Image 8 de jun. de 2026, 21_45_08.png" alt="quomionx Logo" width="450" />
